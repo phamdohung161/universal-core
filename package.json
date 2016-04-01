@@ -1,0 +1,19 @@
+{
+  "name": "universal-core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phamdohung161/universal-core.git"
+  },
+  "author": "Hung Pham Do",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phamdohung161/universal-core/issues"
+  },
+  "homepage": "https://github.com/phamdohung161/universal-core#readme"
+}
